@@ -14,13 +14,23 @@ I am:
 
 ## What do I like?
 
-I am very passionate about the full-stack of an application, especially the backend and "DevOps"-like things such as pipelines, deployment, containers and orchestration, tooling, etc.
+I am very passionate about the full-stack of an application, especially the backend and "DevOps"-like things such as CI/CD pipelines, deployment, containers and orchestration, tooling, etc.
 
 That doesn't mean that I am not interested by frontend web development, right now React.js has all my attention, but I am open to explore more when the time comes.
 
 I really enjoy building apps from ground up, all the way to deployment on my [home servers](https://github.com/gordonpn/server-services-configs).
 
 Lately, I have been really into writing code in Go!
+
+<details>
+  <summary>Favourite technologies</summary>
+
+* Go
+* Python
+* Next.js
+* Docker
+
+</details>
 
 ## What have I made?
 
