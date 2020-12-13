@@ -7,20 +7,18 @@ I am a software engineering student graduating from Concordia University in 2022
 I am:
 
 - Resourceful
-- Detail-oriented
-- Self-starter
-- Team player with positive attitude
 - Curious
-
-**I am open for new grad opportunities, available as of May 2022.**
+- A learner
+- A self-starter
+- A team player
 
 ## What do I like?
 
-I am very passionate about the full-stack of an application, especially the backend and "DevOps"-like things such as CI/CD pipelines, deployment, containers and orchestration, tooling, etc.
+I am very passionate about the full-stack of an application, especially the back-end and "DevOps"-like things such as CI/CD pipelines, deployment, containers and orchestration, tooling, etc.
 
-That doesn't mean that I am not interested by frontend web development, right now React.js has all my attention, but I am open to explore and learn.
+On the front-end, I am very fond of React.js, especially the Next.js framework!
 
-I really enjoy building apps from ground, all the way up to deployment on my [home servers](https://github.com/gordonpn/server-services-configs).
+I really enjoy building apps from ground, all the way up to deployment on my [self-managed servers](https://github.com/gordonpn/server-services-configs).
 
 <details>
   <summary>Current favourite technologies</summary>
@@ -35,10 +33,9 @@ I really enjoy building apps from ground, all the way up to deployment on my [ho
 <details>
   <summary>Personal Roadmap</summary>
 
-- Observability in applications
-- Orchestration with Kubernetes
-- Anything AWS
-- gRPC
+- Serverless with AWS
+- gRPC and messages queues
+- Infrastructure provisioning and configuration management
 - More pipelines, more system design, more architecture!
 
 </details>
