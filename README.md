@@ -63,3 +63,10 @@ Check out my other projects on my [personal website!](https://gordon-pn.com/)
 - LinkedIn: [gordonpn](https://www.linkedin.com/in/gordonpn/)
 - Twitter: [@gordonpn](https://twitter.com/Gordonpn)
 - Instagram: [@gordonpn](https://www.instagram.com/gordonpn/)
+
+<details>
+  <summary>Metrics</summary>
+
+![GitHub metrics](https://github.com/gordonpn/gordonpn/blob/master/github-metrics.svg)
+
+</details>
