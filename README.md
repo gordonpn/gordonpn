@@ -67,6 +67,6 @@ Check out my other projects on my [personal website!](https://gordon-pn.com/)
 <details>
   <summary>Metrics</summary>
 
-![GitHub metrics](https://github.com/gordonpn/gordonpn/blob/master/github-metrics.svg)
+<img align="center" src="https://github.com/gordonpn/gordonpn/blob/master/github-metrics.svg" alt="GitHub Metrics">
 
 </details>
