@@ -19,8 +19,6 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Toronto
           use_prebuilt_image: yes
-          repositories_forks: yes
-          repositories_affiliations: owner, collaborator, organization_member
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_habits: yes
