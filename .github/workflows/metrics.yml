@@ -18,6 +18,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Toronto
+          use_prebuilt_image: yes
+          repositories_forks: yes
+          repositories_affiliations: owner, collaborator, organization_member
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           plugin_habits: yes
@@ -30,6 +33,5 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_types: commit, pull_request, issue
-          plugin_notable_repositories: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
