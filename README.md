@@ -22,3 +22,10 @@ Ask me anything, I'm friendly!
   <img align="center" src="https://github.com/gordonpn/gordonpn/blob/master/github-metrics.svg" alt="GitHub Metrics">
 
 </details>
+
+<details>
+  <summary>WakaTime</summary>
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
