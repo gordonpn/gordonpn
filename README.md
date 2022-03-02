@@ -27,5 +27,10 @@ Ask me anything, I'm friendly!
   <summary>WakaTime</summary>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+
+```text
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
+
+<!--END_SECTION:waka-->
 </details>
