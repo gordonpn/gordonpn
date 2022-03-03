@@ -29,7 +29,12 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+XML                        46 mins         █████████████████░░░░░░░░   67.64 %
+Brazil Dependency Config   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.55 %
+Shell Script               8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+Text                       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Java                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
