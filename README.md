@@ -29,12 +29,12 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-XML                        46 mins         █████████████▒░░░░░░░░░░░   52.83 %
-Brazil Dependency Config   18 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
-Shell Script               9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Text                       9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-brazil-config              3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
-INI                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Java                       1 hr 12 mins    ██████████▒░░░░░░░░░░░░░░   40.71 %
+XML                        46 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.94 %
+Brazil Dependency Config   18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Shell Script               9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Text                       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Bash                       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
 ```
 
 <!--END_SECTION:waka-->
