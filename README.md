@@ -29,12 +29,12 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-Java                       8 hrs 40 mins   ████████████████████▒░░░░   81.98 %
-XML                        46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-Brazil Dependency Config   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-Shell Script               10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Text                       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
-Gradle                     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Java                       9 hrs 4 mins    ████████████████████▓░░░░   83.18 %
+Markdown                   45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Brazil Dependency Config   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Text                       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Gradle                     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Bash                       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
