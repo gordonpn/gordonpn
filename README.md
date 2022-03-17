@@ -29,12 +29,12 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-Java                       8 hrs 6 mins    ████████████▓░░░░░░░░░░░░   50.20 %
-Markdown                   2 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.49 %
-TypeScript                 1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Shell Script               52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Text                       45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-INI                        32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Java                       11 hrs 50 mins  █████████████████▓░░░░░░░   70.03 %
+TypeScript                 1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+Shell Script               51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Text                       40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+YAML                       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Brazil Dependency Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
