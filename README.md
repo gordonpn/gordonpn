@@ -29,12 +29,12 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-Java                       10 hrs 32 mins  ███████████████████▒░░░░░   77.32 %
-TypeScript                 1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
-YAML                       25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-JSON                       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Makefile                   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-brazil-config              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Java                       10 hrs 24 mins  ███████████████████████░░   91.65 %
+TypeScript                 34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+brazil-config              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Python                     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+INI                        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+GitIgnore file             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
