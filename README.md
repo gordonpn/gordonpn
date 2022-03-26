@@ -29,12 +29,9 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-Java                       12 hrs 32 mins  ██████████████████████░░░   87.48 %
+Java                       12 hrs 28 mins  █████████████████████▓░░░   87.06 %
 XML                        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-TypeScript                 22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-JSON                       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Text                       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Markdown                   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Other                      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
