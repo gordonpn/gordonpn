@@ -29,9 +29,10 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-Java                       12 hrs 28 mins  █████████████████████▓░░░   87.06 %
-XML                        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-Other                      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Java                       10 hrs 21 mins  ███████████████████▓░░░░░   78.79 %
+TypeScript                 57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+XML                        47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Other                      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
