@@ -29,10 +29,10 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-YAML       4 hrs 36 mins   ████████████████████▓░░░░   83.00 %
-Bash       32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
-Markdown   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+YAML       2 hrs 44 mins   ███████████████████░░░░░░   76.06 %
+Bash       28 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.08 %
+Markdown   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Other      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
