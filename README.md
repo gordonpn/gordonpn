@@ -29,8 +29,9 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-Bash   14 mins         ████████████████████████▒   97.81 %
-INI    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+Bash   14 mins         ███████████████████▒░░░░░   77.13 %
+YAML   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
+INI    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
