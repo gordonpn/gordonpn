@@ -29,10 +29,9 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-Bash       1 hr 52 mins    ██████████████████▓░░░░░░   75.20 %
-YAML       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-JSON       13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Other      6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+TypeScript   3 hrs 9 mins    ████████████▒░░░░░░░░░░░░   49.96 %
+Bash         2 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   35.54 %
+Other        26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
 ```
 
 <!--END_SECTION:waka-->
