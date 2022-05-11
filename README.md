@@ -29,9 +29,9 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 9 mins    ████████████▒░░░░░░░░░░░░   49.96 %
-Bash         2 hrs 14 mins   █████████░░░░░░░░░░░░░░░░   35.54 %
-Other        26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+TypeScript   5 hrs 48 mins   ████████████████░░░░░░░░░   64.49 %
+Bash         2 hrs 14 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
+Other        26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
 ```
 
 <!--END_SECTION:waka-->
