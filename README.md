@@ -29,13 +29,13 @@ Ask me anything, I'm friendly!
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 258 Contributions in the Year 2022
  > 
-> 📦 146.9 kB Used in GitHub's Storage 
+> 📦 144.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -109,6 +109,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gordonpn/gordonpn/master/charts/bar_graph.png) 
 
 
- Last Updated on 16/05/2022 15:39:11 UTC
+ Last Updated on 17/05/2022 04:41:08 UTC
 <!--END_SECTION:waka-->
 </details>
