@@ -35,7 +35,7 @@ Ask me anything, I'm friendly!
 
 > 🏆 265 Contributions in the Year 2022
  > 
-> 📦 134.8 kB Used in GitHub's Storage 
+> 📦 135.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,22 +72,16 @@ Sunday       121 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-Markdown                 1 hr 29 mins        ████████████████████████░   97.48% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-server-services-configs  1 hr 29 mins        ████████████████████████░   97.48% 
-dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
-reddit-slack-bot         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09% 
-discord-bot              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 31 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -108,6 +102,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gordonpn/gordonpn/master/charts/bar_graph.png) 
 
 
- Last Updated on 26/05/2022 04:42:17 UTC
+ Last Updated on 27/05/2022 04:41:02 UTC
 <!--END_SECTION:waka-->
 </details>
