@@ -35,7 +35,7 @@ Ask me anything, I'm friendly!
 
 > 🏆 267 Contributions in the Year 2022
  > 
-> 📦 139.2 kB Used in GitHub's Storage 
+> 📦 139.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,16 +72,23 @@ Sunday       121 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Toronto
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   38 mins             █████████████████░░░░░░░░   68.1% 
+Makefile                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
+Bash                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
+reStructuredText         2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  55 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+maplelegends-vote-reminde44 mins             ████████████████████░░░░░   79.7% 
+proxy-server             5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
+discord-bot              4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      55 mins             █████████████████████████   100.0%
 
 ```
 
@@ -102,6 +109,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gordonpn/gordonpn/master/charts/bar_graph.png) 
 
 
- Last Updated on 04/06/2022 04:27:03 UTC
+ Last Updated on 05/06/2022 04:29:13 UTC
 <!--END_SECTION:waka-->
 </details>
