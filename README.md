@@ -35,7 +35,7 @@ Ask me anything, I'm friendly!
 
 > 🏆 271 Contributions in the Year 2022
  > 
-> 📦 137.1 kB Used in GitHub's Storage 
+> 📦 137.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -108,6 +108,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gordonpn/gordonpn/master/charts/bar_graph.png) 
 
 
- Last Updated on 15/06/2022 04:45:27 UTC
+ Last Updated on 16/06/2022 04:44:25 UTC
 <!--END_SECTION:waka-->
 </details>
