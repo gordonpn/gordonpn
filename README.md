@@ -27,7 +27,7 @@ Ask me anything, I'm friendly!
   <summary>WakaTime</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -111,6 +111,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gordonpn/gordonpn/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/08/2022 10:36:38 UTC
+ Last Updated on 17/08/2022 16:46:24 UTC
 <!--END_SECTION:waka-->
 </details>
