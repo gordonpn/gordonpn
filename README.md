@@ -27,7 +27,7 @@ Ask me anything, I'm friendly!
   <summary>WakaTime</summary>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-246%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,7 +35,7 @@ Ask me anything, I'm friendly!
 
 > 🏆 405 Contributions in the Year 2022
  > 
-> 📦 138.3 kB Used in GitHub's Storage 
+> 📦 135.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,6 +111,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/gordonpn/gordonpn/master/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 16:47:09 UTC
+ Last Updated on 19/08/2022 10:33:44 UTC
 <!--END_SECTION:waka-->
 </details>
