@@ -31,13 +31,14 @@ Ask me anything, I'm friendly!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 31 mins       ████████████████████████░   97.41 % 
+Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/11/2023 16:23:19 UTC
+ Last Updated on 29/11/2023 10:20:15 UTC
 <!--END_SECTION:waka-->
 </details>
