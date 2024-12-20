@@ -1,12 +1,8 @@
-# Hello! 😄
+# Hello!
 
 ## Intro
 
-I like tech (surprise!).
-
-I'm curious and resourceful.
-
-Ask me anything, I'm friendly!
+<https://gordon-pn.com/>
 
 ## Reach me at
 
